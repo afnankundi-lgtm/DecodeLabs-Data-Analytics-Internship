@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the complete data cleaning and preprocessing workflow of an e-commerce dataset using Microsoft Excel.
+This project focuses on cleaning and preprocessing an e-commerce dataset using Microsoft Excel.
 
 ## Objectives
 
@@ -12,16 +12,29 @@ This project demonstrates the complete data cleaning and preprocessing workflow 
 - Standardize text values
 - Standardize numeric values
 
-## Tools
-
-- Microsoft Excel
-
-## Deliverables
+## Dataset
 
 - Raw Dataset
 - Cleaned Dataset
-- Data Cleaning Report
 
-## Status
+## Tools Used
 
-✅ Completed
+- Microsoft Excel
+
+## Techniques Applied
+
+- Mode Imputation
+- Duplicate Verification
+- Date Standardization
+- TRIM & PROPER
+- ROUND Function
+
+## Project Files
+
+- Raw_Dataset.xlsx
+- Cleaned_Dataset.xlsx
+- Data_Cleaning_Report.pdf
+
+## Result
+
+A clean and standardized dataset was successfully prepared for further analysis.
